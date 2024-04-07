@@ -5,11 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img
-      src="c:\Users\User\Downloads\WhatsApp Image 2024-04-06 at 02.06.00_d7bd1fe0.jpg"
-      width="200"
-      height="200"
-    />
+    <img src="./assets/profile.jpg" width="200" height="200" />
     <div class="wrapper">
       <HelloWorld msg="Zulfiana Jumadilla Lubis" />
     </div>
